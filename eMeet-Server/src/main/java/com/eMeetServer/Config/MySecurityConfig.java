@@ -72,15 +72,4 @@ public class MySecurityConfig extends WebSecurityConfigurerAdapter
 	}
 
 
-
-	
-
-
-
-	
-	
-    
-    
-	
-
 }
